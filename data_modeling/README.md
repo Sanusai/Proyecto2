@@ -1,0 +1,1 @@
+- Modelado de los datos clínicos para poder aplicarlos a los modelos de machine learning.
